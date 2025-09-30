@@ -22,7 +22,7 @@ The app is deployed on **Streamlit**, allowing easy access via a web browser.
 
 ## 🚀 Live Demo
 
-Access the deployed app here: [**Diabetes Prediction System on Streamlit**]([https://<your-streamlit-link>](https://samyuktha14-diabetes-prediction-system-app-fmwob7.streamlit.app/))
+Access the deployed app here: [**Diabetes Prediction System on Streamlit**](https://samyuktha14-diabetes-prediction-system-app-fmwob7.streamlit.app/)
 
 ---
 
@@ -50,4 +50,5 @@ Access the deployed app here: [**Diabetes Prediction System on Streamlit**]([htt
 - GitHub: [https://github.com/Samyuktha14/diabetes-prediction-system](https://github.com/Samyuktha14/diabetes-prediction-system)  
 - Email: jsamyuktha2004@gmail.com
 ﻿# diabetes-prediction-system
+
 
